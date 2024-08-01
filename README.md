@@ -3,7 +3,7 @@
 ---
 ## screenshots
 ### Admin Dashboard
-![dashboard snap](https://github.com/sahil-5117/django-ecommerce/blob/master/static/screenshots/adminHomepage.png?raw=true)
+![dashboard snap](https://github.com/sahil-5117/django-ecommerce/blob/master/static/screenshots/homepage.png?raw=true)
 ### Customer Homepage
 ![homepage snap](https://github.com/sahil-5117/django-ecommerce/blob/master/static/screenshots/customerhomepage.png?raw=true)
 ### Cart
